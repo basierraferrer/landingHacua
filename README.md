@@ -1,2 +1,2 @@
-# landingHacua
+# LandingHacua
 Hacua's Landing page 
